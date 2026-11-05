@@ -1,0 +1,1 @@
+2026-11-05T16:52:52.695126Z	   15 Query	select @@version_comment limit 1
